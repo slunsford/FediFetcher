@@ -1,0 +1,8 @@
+{
+  "server": "mastodon.seanlunsford.com",
+  "home-timeline-length": 200,
+  "max-bookmarks": 80,
+  "max-followings": 80,
+  "max-followers": 80,
+  "from-notifications": 1
+}
